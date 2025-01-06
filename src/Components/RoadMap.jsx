@@ -1,7 +1,7 @@
 import { check2, grid, loading1 } from "../assets";
 import { roadmap } from "../Constants";
 import Button from "./Button";
-import { Gradient } from "./design/hero";
+import { Gradient } from "./design/Hero";
 import Heading from "./Heading";
 import Section from "./Section";
 import TagLine from "./TagLine";
